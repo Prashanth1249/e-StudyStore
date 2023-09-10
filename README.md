@@ -17,10 +17,10 @@ e-StudyStore is a full-stack web application that allows users to buy and sell b
 - **Logout**: Users can log out of their accounts securely.
 
 - **View Orders**: Users can view their order history, including details of purchased books.
-- 
+  
 ## Connecting Buyer and Seller via Email
 
-- **Contacting Sellers**: When a user places an order to buy a book, the application will automatically send an email to the seller who listed the book. The email will include the contact details of the buyer, such as their email and contact information.
+- **Contacting Seller and Buyer**: When a user places an order to buy a book, the application will automatically send an email to the seller who listed the book. The email will include the contact details of the buyer, such as their email and contact information.
 
 This feature ensures that buyers and sellers can easily connect and arrange the details of the book transaction. It facilitates communication between parties interested in a book.
 
