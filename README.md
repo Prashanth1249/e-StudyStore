@@ -1,6 +1,10 @@
 # e-StudyStore
 
-e-StudyStore is a full-stack web application that allows users to buy and sell books. It includes user authentication, user registration, and various features for managing user profiles, buying, and selling books.
+e-StudyStore is a specialized web application meticulously crafted to cater specifically to the unique needs of RGUKT Basar campus students. It has been designed with the primary goal of streamlining and enhancing the process of buying and selling books within the close-knit campus community.
+
+-## Purpose
+
+At RGUKT Basar, academic resources such as textbooks play a pivotal role in a student's education journey. However, acquiring the right textbooks can often be a cumbersome and expensive task. Recognizing this challenge, e-StudyStore emerges as a valuable solution, offering a user-friendly platform dedicated to facilitating book transactions among campus students.
 
 ## Features
 
