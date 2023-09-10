@@ -33,15 +33,15 @@ To run the front end of the application, follow these steps:
 
 1. Navigate to the `front` directory:
 
-cd front
+    cd front
 
 2. Install the required dependencies:
 
-npm install
+    npm install
 
 3. Start the development server:
 
-npm start
+    npm start
 
 4. Open your browser and go to [http://localhost:3000](http://localhost:3000) to access the front end.
 
@@ -51,17 +51,17 @@ To run the back end of the application, follow these steps:
 
 1. Navigate to the `backend` directory:
 
-cd backend
+    cd backend
 
 2. Install the required dependencies:
 
-npm install
+    npm install
 
 3. Start the development server with the following command:
 
-npm run dev
+    npm run dev
 
-The back end will run on [http://localhost:9002](http://localhost:9002).
+The back end will run on [http://localhost:9002](http://localhost:9002)
 
 ### Connecting to the MongoDB Database
 
