@@ -1,5 +1,3 @@
-To modify the instructions for live deployment on Netlify and ensure the e-StudyStore application is properly set up for this, we'll need to adjust the steps to reflect the deployment process. Here's how to update the documentation accordingly:
-
 # e-StudyStore
 
 e-StudyStore is a specialized web application meticulously crafted to cater specifically to the unique needs of RGUKT Basar campus students. It has been designed with the primary goal of streamlining and enhancing the process of buying and selling books within the close-knit campus community.
