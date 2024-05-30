@@ -36,8 +36,7 @@ app.use(
   })
 )
 
-const dburl = "mongodb://127.0.0.1:27017/mydatabase7";
-//const dburl="mongodb+srv://Prashanth:Stevesmith%4012%2B@cluster0.6ioio77.mongodb.net/ProjectLoginData?retryWrites=true&w=majority";
+const dburl = "mongodb://127.0.0.1:27017/eStoreDatabase";
 mongoose.connect(dburl, { useNewUrlParser: true })
   .then(() => {
     console.log('Connected to MongoDB Atlas');
