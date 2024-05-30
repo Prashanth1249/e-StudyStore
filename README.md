@@ -1,3 +1,5 @@
+To modify the instructions for live deployment on Netlify and ensure the e-StudyStore application is properly set up for this, we'll need to adjust the steps to reflect the deployment process. Here's how to update the documentation accordingly:
+
 # e-StudyStore
 
 e-StudyStore is a specialized web application meticulously crafted to cater specifically to the unique needs of RGUKT Basar campus students. It has been designed with the primary goal of streamlining and enhancing the process of buying and selling books within the close-knit campus community.
@@ -28,48 +30,62 @@ At RGUKT Basar, academic resources such as textbooks play a pivotal role in a st
 
 This feature ensures that buyers and sellers can easily connect and arrange the details of the book transaction. It facilitates communication between parties interested in a book.
 
-
 ## Running the Application
 
-### Running the Front End
+### Live Deployment
 
-To run the front end of the application, follow these steps:
+The e-StudyStore application is deployed live at [estorerguktbasar.netlify.app](https://estorerguktbasar.netlify.app).
+
+### Running the Front End Locally
+
+To run the front end of the application locally, follow these steps:
 
 1. Navigate to the `front` directory:
 
+    ```sh
     cd front
+    ```
 
 2. Install the required dependencies:
 
+    ```sh
     npm install
+    ```
 
 3. Start the development server:
 
+    ```sh
     npm start
+    ```
 
 4. Open your browser and go to [http://localhost:3000](http://localhost:3000) to access the front end.
 
-### Running the Back End
+### Running the Back End Locally
 
-To run the back end of the application, follow these steps:
+To run the back end of the application locally, follow these steps:
 
 1. Navigate to the `backend` directory:
 
+    ```sh
     cd backend
+    ```
 
 2. Install the required dependencies:
 
+    ```sh
     npm install
+    ```
 
 3. Start the development server with the following command:
 
+    ```sh
     npm run dev
+    ```
 
-The back end will run on [http://localhost:9002](http://localhost:9002)
+The back end will run on [http://localhost:9002](http://localhost:9002).
 
 ### Connecting to the MongoDB Database
 
 By default, the back end is configured to connect to a local MongoDB database. If you need to specify a different MongoDB connection string or credentials, you can do so by editing the configuration in the `backend/index.js` file.
 
 Feel free to modify and extend this project to suit your needs. Happy coding!
-
