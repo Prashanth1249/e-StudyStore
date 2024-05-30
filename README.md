@@ -1,6 +1,6 @@
 # e-StudyStore
 
-e-StudyStore is a specialized web application meticulously crafted to cater specifically to the unique needs of RGUKT Basar campus students. It has been designed with the primary goal of streamlining and enhancing the process of buying and selling books within the close-knit campus community.
+e-StudyStore is a specialized web application meticulously crafted to cater specifically to the unique needs of RGUKT Basar campus students. It has been designed with the primary goal of streamlining and enhancing the process of buying and selling books within the campus community.
 
 ## Purpose
 
@@ -41,7 +41,7 @@ To run the front end of the application locally, follow these steps:
 1. Navigate to the `front` directory:
 
     ```sh
-    cd front
+    cd frontend
     ```
 
 2. Install the required dependencies:
