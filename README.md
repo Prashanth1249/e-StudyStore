@@ -38,7 +38,7 @@ The e-StudyStore application is deployed live at [estorerguktbasar.netlify.app](
 
 To run the front end of the application locally, follow these steps:
 
-1. Navigate to the `front` directory:
+1. Navigate to the `frontend` directory:
 
     ```sh
     cd frontend
